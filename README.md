@@ -1,0 +1,2 @@
+# devops
+dynamic web paging
